@@ -1,5 +1,13 @@
 const Player = require('../db/models/player')
 
+
+router.get('/:name', playerController.showName)
+router.get('/id/:id', playerController.showId)
+router.post('/', playerController.create)
+router.patch('/', playerController.update)
+router.delete('/', playerController.destroy)
+
+
 module.exports = {
 
     index: (req,res) => {
@@ -7,18 +15,19 @@ module.exports = {
             res.json(player)
         })
     },
-    index: (req,res) => {
+    showName: (req,res) => {
 
     },
-    index: (req,res) => {
+    showId: (req,res) => {
 
     },
-    index: (req,res) => {
+    create: (req,res) => {
 
     },
-    index: (req,res) => {
+    update: (req,res) => {
 
     },
+    destroy: (req,res) => {
 
-
+    }
 }
