@@ -9,4 +9,4 @@ const SearchedSchema = new Schema ({
     }
 })
 
-module.exports = mongoose.model("Player", PlayerSchema)
+module.exports = mongoose.model("Searched", SearchedSchema)
