@@ -29,8 +29,8 @@ module.exports = {
         })
     },
     destroy: (req,res) => {
-        Player.findOneAndDelete({name:req.params.name}).then(player => {
-            console.log(`${req.params.name} has been deleted`)
+        Player.findOneAndDelete({name: req.params.name}).then(player => {
+            res.json(player)
         })
     }
 }
