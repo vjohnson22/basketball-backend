@@ -6,7 +6,7 @@ router.get('/', playerController.index)
 router.get('/:name', playerController.showName)
 router.get('/id/:id', playerController.showId)
 router.post('/', playerController.create)
-router.patch('/', playerController.update)
+router.patch('/:name', playerController.update)
 router.delete('/', playerController.destroy)
 
 module.exports = router
