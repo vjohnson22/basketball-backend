@@ -7,7 +7,7 @@ app.use(cors())
 app.use(bodyParser.json())
 
 app.use('/', require('./routes/player'))
-// app.use('/searched', require('./routes/searched'))    
+app.use('/ppg', require('./routes/ppg'))    
 
 
 app.set("port", process.env.PORT || 3000)
