@@ -44,3 +44,7 @@ Bpg.deleteMany({}).then(() => {
 Spg.deleteMany({}).then(() => {
     Spg.create(spgData)
 })
+
+Rpg.deleteMany({}).then(() => {
+    Rpg.create(rpgData)
+})
