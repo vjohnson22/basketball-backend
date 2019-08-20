@@ -1,6 +1,6 @@
 [
   {
-    "Season": 2018,
+    "startYear": 2018,
     "score1": 36.1,
     "score2": 28,
     "score3": 27.7,
@@ -14,7 +14,7 @@
     "avgScore": 27.7
   },
   {
-    "Season": 2017,
+    "startYear": 2017,
     "score1": 30.4,
     "score2": 28.1,
     "score3": 27.5,
@@ -28,7 +28,7 @@
     "avgScore": 26.2
   },
   {
-    "Season": 2016,
+    "startYear": 2016,
     "score1": 31.6,
     "score2": 29.1,
     "score3": 28.9,
@@ -42,7 +42,7 @@
     "avgScore": 27.6
   },
   {
-    "Season": 2015,
+    "startYear": 2015,
     "score1": 30.1,
     "score2": 29,
     "score3": 28.2,
@@ -56,7 +56,7 @@
     "avgScore": 25.9
   },
   {
-    "Season": 2014,
+    "startYear": 2014,
     "score1": 28.2,
     "score2": 27.4,
     "score3": 25.3,
@@ -70,7 +70,7 @@
     "avgScore": 24.2
   },
   {
-    "Season": 2013,
+    "startYear": 2013,
     "score1": 32,
     "score2": 27.4,
     "score3": 27.1,
@@ -84,7 +84,7 @@
     "avgScore": 25.5
   },
   {
-    "Season": 2012,
+    "startYear": 2012,
     "score1": 28.7,
     "score2": 28.2,
     "score3": 27.4,
@@ -98,7 +98,7 @@
     "avgScore": 24.5
   },
   {
-    "Season": 2011,
+    "startYear": 2011,
     "score1": 28,
     "score2": 27.9,
     "score3": 27.2,
@@ -112,7 +112,7 @@
     "avgScore": 24
   },
   {
-    "Season": 2010,
+    "startYear": 2010,
     "score1": 27.7,
     "score2": 26.7,
     "score3": 25.6,
@@ -126,7 +126,7 @@
     "avgScore": 25.2
   },
   {
-    "Season": 2009,
+    "startYear": 2009,
     "score1": 30.2,
     "score2": 29.7,
     "score3": 28.2,
@@ -140,7 +140,7 @@
     "avgScore": 26.3
   },
   {
-    "Season": 2008,
+    "startYear": 2008,
     "score1": 30.2,
     "score2": 28.4,
     "score3": 26.8,
@@ -154,7 +154,7 @@
     "avgScore": 25.3
   },
   {
-    "Season": 2007,
+    "startYear": 2007,
     "score1": 30,
     "score2": 28.3,
     "score3": 26.4,
@@ -168,7 +168,7 @@
     "avgScore": 25.1
   },
   {
-    "Season": 2006,
+    "startYear": 2006,
     "score1": 31.6,
     "score2": 28.9,
     "score3": 28.5,
@@ -182,7 +182,7 @@
     "avgScore": 27.1
   },
   {
-    "Season": 2005,
+    "startYear": 2005,
     "score1": 35.4,
     "score2": 33,
     "score3": 31.4,
@@ -196,7 +196,7 @@
     "avgScore": 28.7
   },
   {
-    "Season": 2004,
+    "startYear": 2004,
     "score1": 30.7,
     "score2": 27.6,
     "score3": 27.2,
@@ -210,7 +210,7 @@
     "avgScore": 26.1
   },
   {
-    "Season": 2003,
+    "startYear": 2003,
     "score1": 28,
     "score2": 24.3,
     "score3": 24.2,
@@ -224,7 +224,7 @@
     "avgScore": 23.5
   },
   {
-    "Season": 2002,
+    "startYear": 2002,
     "score1": 32.1,
     "score2": 30,
     "score3": 27.6,
@@ -238,7 +238,7 @@
     "avgScore": 26
   },
   {
-    "Season": 2001,
+    "startYear": 2001,
     "score1": 31.4,
     "score2": 27.2,
     "score3": 26.2,
@@ -252,7 +252,7 @@
     "avgScore": 25.4
   },
   {
-    "Season": 2000,
+    "startYear": 2000,
     "score1": 31.1,
     "score2": 29.8,
     "score3": 28.7,
@@ -266,7 +266,7 @@
     "avgScore": 27.4
   },
   {
-    "Season": 1999,
+    "startYear": 1999,
     "score1": 29.7,
     "score2": 28.4,
     "score3": 25.8,
@@ -280,7 +280,7 @@
     "avgScore": 25.3
   },
   {
-    "Season": 1998,
+    "startYear": 1998,
     "score1": 26.8,
     "score2": 26.3,
     "score3": 23.8,
@@ -294,7 +294,7 @@
     "avgScore": 23
   },
   {
-    "Season": 1997,
+    "startYear": 1997,
     "score1": 28.7,
     "score2": 28.3,
     "score3": 27,
@@ -308,7 +308,7 @@
     "avgScore": 24
   },
   {
-    "Season": 1996,
+    "startYear": 1996,
     "score1": 29.7,
     "score2": 27.4,
     "score3": 26.8,
@@ -322,7 +322,7 @@
     "avgScore": 24.7
   },
   {
-    "Season": 1995,
+    "startYear": 1995,
     "score1": 30.4,
     "score2": 26.9,
     "score3": 26.6,
@@ -336,7 +336,7 @@
     "avgScore": 24.9
   },
   {
-    "Season": 1994,
+    "startYear": 1994,
     "score1": 29.3,
     "score2": 27.9,
     "score3": 27.6,
@@ -350,7 +350,7 @@
     "avgScore": 24.9
   },
   {
-    "Season": 1993,
+    "startYear": 1993,
     "score1": 29.8,
     "score2": 29.4,
     "score3": 27.3,
@@ -364,7 +364,7 @@
     "avgScore": 25
   },
   {
-    "Season": 1992,
+    "startYear": 1992,
     "score1": 32.6,
     "score2": 29.9,
     "score3": 27,
@@ -378,7 +378,7 @@
     "avgScore": 25.8
   },
   {
-    "Season": 1991,
+    "startYear": 1991,
     "score1": 30.1,
     "score2": 28.1,
     "score3": 25.6,
@@ -392,7 +392,7 @@
     "avgScore": 24.7
   },
   {
-    "Season": 1990,
+    "startYear": 1990,
     "score1": 31.5,
     "score2": 29.1,
     "score3": 28.4,
@@ -406,7 +406,7 @@
     "avgScore": 27.1
   },
   {
-    "Season": 1989,
+    "startYear": 1989,
     "score1": 33.6,
     "score2": 31,
     "score3": 28.6,
@@ -420,7 +420,7 @@
     "avgScore": 27.1
   },
   {
-    "Season": 1988,
+    "startYear": 1988,
     "score1": 32.5,
     "score2": 29.1,
     "score3": 27.5,
@@ -434,7 +434,7 @@
     "avgScore": 27.2
   },
   {
-    "Season": 1987,
+    "startYear": 1987,
     "score1": 35,
     "score2": 30.7,
     "score3": 29.9,
@@ -448,7 +448,7 @@
     "avgScore": 27.7
   },
   {
-    "Season": 1986,
+    "startYear": 1986,
     "score1": 37.1,
     "score2": 29,
     "score3": 28.6,
@@ -462,7 +462,7 @@
     "avgScore": 27.4
   },
   {
-    "Season": 1985,
+    "startYear": 1985,
     "score1": 30.3,
     "score2": 29.8,
     "score3": 29.8,
@@ -476,7 +476,7 @@
     "avgScore": 26
   },
   {
-    "Season": 1984,
+    "startYear": 1984,
     "score1": 32.9,
     "score2": 28.7,
     "score3": 28.2,
@@ -490,7 +490,7 @@
     "avgScore": 27.4
   },
   {
-    "Season": 1983,
+    "startYear": 1983,
     "score1": 30.6,
     "score2": 29.5,
     "score3": 29.4,
@@ -504,7 +504,7 @@
     "avgScore": 26.1
   },
   {
-    "Season": 1982,
+    "startYear": 1982,
     "score1": 28.4,
     "score2": 26.7,
     "score3": 26.5,
@@ -518,7 +518,7 @@
     "avgScore": 25.2
   },
   {
-    "Season": 1981,
+    "startYear": 1981,
     "score1": 32.3,
     "score2": 31.1,
     "score3": 30.3,
@@ -532,7 +532,7 @@
     "avgScore": 26
   },
   {
-    "Season": 1980,
+    "startYear": 1980,
     "score1": 30.7,
     "score2": 27.8,
     "score3": 27.1,
@@ -546,7 +546,7 @@
     "avgScore": 25.9
   },
   {
-    "Season": 1979,
+    "startYear": 1979,
     "score1": 33.1,
     "score2": 30.2,
     "score3": 28,
@@ -560,7 +560,7 @@
     "avgScore": 26.1
   },
   {
-    "Season": 1978,
+    "startYear": 1978,
     "score1": 29.6,
     "score2": 28.8,
     "score3": 25.6,
@@ -574,7 +574,7 @@
     "avgScore": 25.3
   },
   {
-    "Season": 1977,
+    "startYear": 1977,
     "score1": 27.2,
     "score2": 27.2,
     "score3": 26.5,
@@ -588,7 +588,7 @@
     "avgScore": 25.5
   },
   {
-    "Season": 1976,
+    "startYear": 1976,
     "score1": 31.1,
     "score2": 26.6,
     "score3": 26.2,
@@ -602,7 +602,7 @@
     "avgScore": 25.4
   },
   {
-    "Season": 1975,
+    "startYear": 1975,
     "score1": 31.1,
     "score2": 27.7,
     "score3": 25.9,
@@ -616,7 +616,7 @@
     "avgScore": 24.2
   },
   {
-    "Season": 1975,
+    "startYear": 1975,
     "score1": 29.3,
     "score2": 28.1,
     "score3": 26,
@@ -630,7 +630,7 @@
     "avgScore": 24.3
   },
   {
-    "Season": 1974,
+    "startYear": 1974,
     "score1": 34.5,
     "score2": 30.6,
     "score3": 30,
@@ -644,7 +644,7 @@
     "avgScore": 26
   },
   {
-    "Season": 1974,
+    "startYear": 1974,
     "score1": 29.8,
     "score2": 27.9,
     "score3": 25.2,
@@ -658,7 +658,7 @@
     "avgScore": 24.3
   },
   {
-    "Season": 1973,
+    "startYear": 1973,
     "score1": 30.6,
     "score2": 27.7,
     "score3": 27.1,
@@ -672,7 +672,7 @@
     "avgScore": 25.3
   },
   {
-    "Season": 1973,
+    "startYear": 1973,
     "score1": 27.4,
     "score2": 25.9,
     "score3": 25.5,
@@ -686,7 +686,7 @@
     "avgScore": 22.2
   },
   {
-    "Season": 1972,
+    "startYear": 1972,
     "score1": 34,
     "score2": 30.2,
     "score3": 29.2,
@@ -700,7 +700,7 @@
     "avgScore": 26.8
   },
   {
-    "Season": 1972,
+    "startYear": 1972,
     "score1": 31.9,
     "score2": 27.6,
     "score3": 27.3,
@@ -714,7 +714,7 @@
     "avgScore": 24
   },
   {
-    "Season": 1971,
+    "startYear": 1971,
     "score1": 34.8,
     "score2": 28.2,
     "score3": 27.5,
@@ -728,7 +728,7 @@
     "avgScore": 27
   },
   {
-    "Season": 1971,
+    "startYear": 1971,
     "score1": 34.6,
     "score2": 31.5,
     "score3": 30.6,
@@ -742,7 +742,7 @@
     "avgScore": 27.3
   },
   {
-    "Season": 1970,
+    "startYear": 1970,
     "score1": 31.7,
     "score2": 28.9,
     "score3": 28.7,
@@ -756,7 +756,7 @@
     "avgScore": 26.2
   },
   {
-    "Season": 1970,
+    "startYear": 1970,
     "score1": 29.9,
     "score2": 29.3,
     "score3": 27.2,
@@ -770,7 +770,7 @@
     "avgScore": 25.4
   },
   {
-    "Season": 1969,
+    "startYear": 1969,
     "score1": 31.2,
     "score2": 28.8,
     "score3": 27.5,
@@ -784,7 +784,7 @@
     "avgScore": 25.9
   },
   {
-    "Season": 1969,
+    "startYear": 1969,
     "score1": 30,
     "score2": 27.5,
     "score3": 27.4,
@@ -798,7 +798,7 @@
     "avgScore": 25
   },
   {
-    "Season": 1968,
+    "startYear": 1968,
     "score1": 28.4,
     "score2": 25.8,
     "score3": 24.8,
@@ -812,7 +812,7 @@
     "avgScore": 24.6
   },
   {
-    "Season": 1968,
+    "startYear": 1968,
     "score1": 28.4,
     "score2": 26.6,
     "score3": 24.8,
@@ -826,7 +826,7 @@
     "avgScore": 23.6
   },
   {
-    "Season": 1967,
+    "startYear": 1967,
     "score1": 29.2,
     "score2": 27.1,
     "score3": 26,
@@ -840,7 +840,7 @@
     "avgScore": 24.4
   },
   {
-    "Season": 1967,
+    "startYear": 1967,
     "score1": 26.8,
     "score2": 24.2,
     "score3": 23.5,
@@ -854,7 +854,7 @@
     "avgScore": 22.4
   },
   {
-    "Season": 1966,
+    "startYear": 1966,
     "score1": 35.6,
     "score2": 30.5,
     "score3": 28.7,
@@ -868,7 +868,7 @@
     "avgScore": 25.3
   },
   {
-    "Season": 1965,
+    "startYear": 1965,
     "score1": 33.5,
     "score2": 31.3,
     "score3": 31.3,
@@ -882,7 +882,7 @@
     "avgScore": 25.6
   },
   {
-    "Season": 1964,
+    "startYear": 1964,
     "score1": 34.7,
     "score2": 31,
     "score3": 30.4,
@@ -896,7 +896,7 @@
     "avgScore": 25.4
   },
   {
-    "Season": 1963,
+    "startYear": 1963,
     "score1": 36.9,
     "score2": 31.4,
     "score3": 28.7,
@@ -910,7 +910,7 @@
     "avgScore": 26.2
   },
   {
-    "Season": 1962,
+    "startYear": 1962,
     "score1": 44.8,
     "score2": 34,
     "score3": 28.4,
@@ -924,7 +924,7 @@
     "avgScore": 26.7
   },
   {
-    "Season": 1961,
+    "startYear": 1961,
     "score1": 50.4,
     "score2": 31.6,
     "score3": 31.1,
@@ -938,7 +938,7 @@
     "avgScore": 29.8
   },
   {
-    "Season": 1960,
+    "startYear": 1960,
     "score1": 38.4,
     "score2": 34.8,
     "score3": 30.5,
@@ -952,7 +952,7 @@
     "avgScore": 27.3
   },
   {
-    "Season": 1959,
+    "startYear": 1959,
     "score1": 37.6,
     "score2": 31.2,
     "score3": 29.6,
@@ -966,7 +966,7 @@
     "avgScore": 26.1
   },
   {
-    "Season": 1958,
+    "startYear": 1958,
     "score1": 29.2,
     "score2": 26.4,
     "score3": 25.8,
@@ -980,7 +980,7 @@
     "avgScore": 23.2
   },
   {
-    "Season": 1957,
+    "startYear": 1957,
     "score1": 27.8,
     "score2": 24.9,
     "score3": 24.6,
@@ -994,7 +994,7 @@
     "avgScore": 22
   },
   {
-    "Season": 1956,
+    "startYear": 1956,
     "score1": 25.6,
     "score2": 24.7,
     "score3": 22.8,
@@ -1008,7 +1008,7 @@
     "avgScore": 21.2
   },
   {
-    "Season": 1955,
+    "startYear": 1955,
     "score1": 25.7,
     "score2": 24.2,
     "score3": 22.1,
@@ -1022,7 +1022,7 @@
     "avgScore": 20.4
   },
   {
-    "Season": 1954,
+    "startYear": 1954,
     "score1": 22.7,
     "score2": 21.2,
     "score3": 21,
@@ -1036,7 +1036,7 @@
     "avgScore": 19.6
   },
   {
-    "Season": 1953,
+    "startYear": 1953,
     "score1": 24.4,
     "score2": 19.2,
     "score3": 18.9,
@@ -1050,7 +1050,7 @@
     "avgScore": 17.5
   },
   {
-    "Season": 1952,
+    "startYear": 1952,
     "score1": 22.3,
     "score2": 20.6,
     "score3": 20.3,
@@ -1064,7 +1064,7 @@
     "avgScore": 17.8
   },
   {
-    "Season": 1951,
+    "startYear": 1951,
     "score1": 25.4,
     "score2": 23.8,
     "score3": 21.7,
@@ -1078,7 +1078,7 @@
     "avgScore": 18.5
   },
   {
-    "Season": 1950,
+    "startYear": 1950,
     "score1": 28.4,
     "score2": 21.7,
     "score3": 20.4,
@@ -1092,7 +1092,7 @@
     "avgScore": 18.9
   },
   {
-    "Season": 1949,
+    "startYear": 1949,
     "score1": 27.4,
     "score2": 23.4,
     "score3": 17.8,
@@ -1106,7 +1106,7 @@
     "avgScore": 18
   },
   {
-    "Season": 1948,
+    "startYear": 1948,
     "score1": 28.3,
     "score2": 26,
     "score3": 20.6,
@@ -1120,7 +1120,7 @@
     "avgScore": 18.2
   },
   {
-    "Season": 1947,
+    "startYear": 1947,
     "score1": 22.1,
     "score2": 21,
     "score3": 19.4,
@@ -1134,7 +1134,7 @@
     "avgScore": 15.9
   },
   {
-    "Season": 1946,
+    "startYear": 1946,
     "score1": 23.2,
     "score2": 16.8,
     "score3": 16.6,
