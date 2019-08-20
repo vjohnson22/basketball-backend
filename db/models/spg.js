@@ -13,7 +13,7 @@ const SpgSchema = new Schema({
     steal8: Number,
     steal9: Number,
     steal10: Number,
-    avgSteal: Number
+    avg: Number
     
 })
 

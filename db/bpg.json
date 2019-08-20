@@ -11,7 +11,7 @@
     "block8": 1.8,
     "block9": 1.6,
     "block10": 1.5,
-    "avgBlock": 2
+    "avg": 2
   },
   {
     "startYear": 2017,
@@ -25,7 +25,7 @@
     "block8": 1.4,
     "block9": 1.4,
     "block10": 1.4,
-    "avgBlock": 1.7
+    "avg": 1.7
   },
   {
     "startYear": 2016,
@@ -39,7 +39,7 @@
     "block8": 1.7,
     "block9": 1.6,
     "block10": 1.6,
-    "avgBlock": 1.9
+    "avg": 1.9
   },
   {
     "startYear": 2015,
@@ -53,7 +53,7 @@
     "block8": 1.7,
     "block9": 1.7,
     "block10": 1.7,
-    "avgBlock": 2.1
+    "avg": 2.1
   },
   {
     "startYear": 2014,
@@ -67,7 +67,7 @@
     "block8": 1.9,
     "block9": 1.9,
     "block10": 1.8,
-    "avgBlock": 2.1
+    "avg": 2.1
   },
   {
     "startYear": 2013,
@@ -81,7 +81,7 @@
     "block8": 1.7,
     "block9": 1.7,
     "block10": 1.6,
-    "avgBlock": 2.1
+    "avg": 2.1
   },
   {
     "startYear": 2012,
@@ -95,7 +95,7 @@
     "block8": 2,
     "block9": 1.8,
     "block10": 1.8,
-    "avgBlock": 2.3
+    "avg": 2.3
   },
   {
     "startYear": 2011,
@@ -109,7 +109,7 @@
     "block8": 1.8,
     "block9": 1.7,
     "block10": 1.7,
-    "avgBlock": 2.1
+    "avg": 2.1
   },
   {
     "startYear": 2010,
@@ -123,7 +123,7 @@
     "block8": 1.9,
     "block9": 1.9,
     "block10": 1.8,
-    "avgBlock": 2.1
+    "avg": 2.1
   },
   {
     "startYear": 2009,
@@ -137,7 +137,7 @@
     "block8": 1.7,
     "block9": 1.7,
     "block10": 1.7,
-    "avgBlock": 2
+    "avg": 2
   },
   {
     "startYear": 2008,
@@ -151,7 +151,7 @@
     "block8": 1.9,
     "block9": 1.8,
     "block10": 1.8,
-    "avgBlock": 2.1
+    "avg": 2.1
   },
   {
     "startYear": 2007,
@@ -165,7 +165,7 @@
     "block8": 2,
     "block9": 1.7,
     "block10": 1.7,
-    "avgBlock": 2.3
+    "avg": 2.3
   },
   {
     "startYear": 2006,
@@ -179,7 +179,7 @@
     "block8": 2.1,
     "block9": 2.1,
     "block10": 2,
-    "avgBlock": 2.5
+    "avg": 2.5
   },
   {
     "startYear": 2005,
@@ -193,7 +193,7 @@
     "block8": 2.3,
     "block9": 2.2,
     "block10": 2.1,
-    "avgBlock": 2.6
+    "avg": 2.6
   },
   {
     "startYear": 2004,
@@ -207,7 +207,7 @@
     "block8": 2.1,
     "block9": 2.1,
     "block10": 2,
-    "avgBlock": 2.5
+    "avg": 2.5
   },
   {
     "startYear": 2003,
@@ -221,7 +221,7 @@
     "block8": 2.5,
     "block9": 2.3,
     "block10": 2.2,
-    "avgBlock": 2.7
+    "avg": 2.7
   },
   {
     "startYear": 2002,
@@ -235,7 +235,7 @@
     "block8": 2.2,
     "block9": 2.1,
     "block10": 1.9,
-    "avgBlock": 2.5
+    "avg": 2.5
   },
   {
     "startYear": 2001,
@@ -249,7 +249,7 @@
     "block8": 2.1,
     "block9": 2.1,
     "block10": 2,
-    "avgBlock": 2.4
+    "avg": 2.4
   },
   {
     "startYear": 2000,
@@ -263,7 +263,7 @@
     "block8": 2.5,
     "block9": 2.3,
     "block10": 2.3,
-    "avgBlock": 2.7
+    "avg": 2.7
   },
   {
     "startYear": 1999,
@@ -277,7 +277,7 @@
     "block8": 2.2,
     "block9": 2.1,
     "block10": 2,
-    "avgBlock": 2.6
+    "avg": 2.6
   },
   {
     "startYear": 1998,
@@ -291,7 +291,7 @@
     "block8": 2.5,
     "block9": 2.4,
     "block10": 2.3,
-    "avgBlock": 2.8
+    "avg": 2.8
   },
   {
     "startYear": 1997,
@@ -305,7 +305,7 @@
     "block8": 2.4,
     "block9": 2.2,
     "block10": 2.2,
-    "avgBlock": 2.8
+    "avg": 2.8
   },
   {
     "startYear": 1996,
@@ -319,7 +319,7 @@
     "block8": 2.2,
     "block9": 2.1,
     "block10": 2.1,
-    "avgBlock": 2.6
+    "avg": 2.6
   },
   {
     "startYear": 1995,
@@ -333,7 +333,7 @@
     "block8": 2.3,
     "block9": 2.1,
     "block10": 2.1,
-    "avgBlock": 2.9
+    "avg": 2.9
   },
   {
     "startYear": 1994,
@@ -347,7 +347,7 @@
     "block8": 2,
     "block9": 1.9,
     "block10": 1.8,
-    "avgBlock": 2.7
+    "avg": 2.7
   },
   {
     "startYear": 1993,
@@ -361,7 +361,7 @@
     "block8": 2.3,
     "block9": 2.2,
     "block10": 2.1,
-    "avgBlock": 2.9
+    "avg": 2.9
   },
   {
     "startYear": 1992,
@@ -375,7 +375,7 @@
     "block8": 2.1,
     "block9": 2,
     "block10": 2,
-    "avgBlock": 2.9
+    "avg": 2.9
   },
   {
     "startYear": 1991,
@@ -389,7 +389,7 @@
     "block8": 2.7,
     "block9": 2.5,
     "block10": 2.5,
-    "avgBlock": 3.1
+    "avg": 3.1
   },
   {
     "startYear": 1990,
@@ -403,7 +403,7 @@
     "block8": 2.2,
     "block9": 2.1,
     "block10": 2.1,
-    "avgBlock": 2.8
+    "avg": 2.8
   },
   {
     "startYear": 1989,
@@ -417,7 +417,7 @@
     "block8": 2.2,
     "block9": 2.1,
     "block10": 2,
-    "avgBlock": 2.9
+    "avg": 2.9
   },
   {
     "startYear": 1988,
@@ -431,7 +431,7 @@
     "block8": 2.3,
     "block9": 2.2,
     "block10": 1.8,
-    "avgBlock": 3
+    "avg": 3
   },
   {
     "startYear": 1987,
@@ -445,7 +445,7 @@
     "block8": 2,
     "block9": 1.9,
     "block10": 1.8,
-    "avgBlock": 2.6
+    "avg": 2.6
   },
   {
     "startYear": 1986,
@@ -459,7 +459,7 @@
     "block8": 2.1,
     "block9": 2.1,
     "block10": 2.1,
-    "avgBlock": 2.7
+    "avg": 2.7
   },
   {
     "startYear": 1985,
@@ -473,7 +473,7 @@
     "block8": 2.3,
     "block9": 2.1,
     "block10": 2,
-    "avgBlock": 3
+    "avg": 3
   },
   {
     "startYear": 1984,
@@ -487,7 +487,7 @@
     "block8": 2.1,
     "block9": 2.1,
     "block10": 2.1,
-    "avgBlock": 2.6
+    "avg": 2.6
   },
   {
     "startYear": 1983,
@@ -501,7 +501,7 @@
     "block8": 1.8,
     "block9": 1.8,
     "block10": 1.8,
-    "avgBlock": 2.4
+    "avg": 2.4
   },
   {
     "startYear": 1982,
@@ -515,7 +515,7 @@
     "block8": 2.2,
     "block9": 2.2,
     "block10": 2,
-    "avgBlock": 2.8
+    "avg": 2.8
   },
   {
     "startYear": 1981,
@@ -529,7 +529,7 @@
     "block8": 2,
     "block9": 1.8,
     "block10": 1.7,
-    "avgBlock": 2.4
+    "avg": 2.4
   },
   {
     "startYear": 1980,
@@ -543,7 +543,7 @@
     "block8": 2.2,
     "block9": 2.1,
     "block10": 2.1,
-    "avgBlock": 2.5
+    "avg": 2.5
   },
   {
     "startYear": 1979,
@@ -557,7 +557,7 @@
     "block8": 2,
     "block9": 1.9,
     "block10": 1.8,
-    "avgBlock": 2.4
+    "avg": 2.4
   },
   {
     "startYear": 1978,
@@ -571,7 +571,7 @@
     "block8": 2.1,
     "block9": 2,
     "block10": 1.9,
-    "avgBlock": 2.6
+    "avg": 2.6
   },
   {
     "startYear": 1977,
@@ -585,7 +585,7 @@
     "block8": 2.2,
     "block9": 2,
     "block10": 2,
-    "avgBlock": 2.5
+    "avg": 2.5
   },
   {
     "startYear": 1976,
@@ -599,7 +599,7 @@
     "block8": 2.2,
     "block9": 2.1,
     "block10": 2.1,
-    "avgBlock": 2.5
+    "avg": 2.5
   },
   {
     "startYear": 1975,
@@ -613,7 +613,7 @@
     "block8": 1.7,
     "block9": 1.7,
     "block10": 1.6,
-    "avgBlock": 2.3
+    "avg": 2.3
   },
   {
     "startYear": 1975,
@@ -627,7 +627,7 @@
     "block8": 1.5,
     "block9": 1.4,
     "block10": 1.2,
-    "avgBlock": 2.1
+    "avg": 2.1
   },
   {
     "startYear": 1974,
@@ -641,7 +641,7 @@
     "block8": 1.9,
     "block9": 1.8,
     "block10": 1.7,
-    "avgBlock": 2.3
+    "avg": 2.3
   },
   {
     "startYear": 1974,
@@ -655,7 +655,7 @@
     "block8": 1.6,
     "block9": 1.6,
     "block10": 1.5,
-    "avgBlock": 2
+    "avg": 2
   },
   {
     "startYear": 1973,
@@ -669,7 +669,7 @@
     "block8": 2.2,
     "block9": 1.4,
     "block10": 1.3,
-    "avgBlock": 2.8
+    "avg": 2.8
   },
   {
     "startYear": 1973,
@@ -683,7 +683,7 @@
     "block8": 1.6,
     "block9": 1.6,
     "block10": 1.2,
-    "avgBlock": 2.2
+    "avg": 2.2
   },
   {
     "startYear": "",
@@ -697,7 +697,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -711,7 +711,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -725,7 +725,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -739,7 +739,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -753,7 +753,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -767,7 +767,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -781,7 +781,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -795,7 +795,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -809,7 +809,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -823,7 +823,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -837,7 +837,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -851,7 +851,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -865,7 +865,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -879,7 +879,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -893,7 +893,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -907,7 +907,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -921,7 +921,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -935,7 +935,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -949,7 +949,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -963,7 +963,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -977,7 +977,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -991,7 +991,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -1005,7 +1005,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -1019,7 +1019,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -1033,7 +1033,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -1047,7 +1047,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -1061,7 +1061,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -1075,7 +1075,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -1089,7 +1089,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -1103,7 +1103,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -1117,7 +1117,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -1131,7 +1131,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -1145,7 +1145,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -1159,7 +1159,7 @@
     "block8": "",
     "block9": "",
     "block10": "",
-    "avgBlock": ""
+    "avg": ""
   },
   {
     "startYear": "",
@@ -1173,6 +1173,6 @@
     "block8": 8,
     "block9": 9,
     "block10": 10,
-    "avgBlock": ""
+    "avg": ""
   }
 ]

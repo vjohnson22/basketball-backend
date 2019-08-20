@@ -13,7 +13,7 @@ const PpgSchema = new Schema({
     score8: Number,
     score9: Number,
     score10: Number,
-    avgScore: Number
+    avg: Number
     
 })
 

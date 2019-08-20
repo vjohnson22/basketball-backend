@@ -11,7 +11,7 @@
     "rebound8": 12,
     "rebound9": 11.4,
     "rebound10": 11.1,
-    "avgRebound": 12.7
+    "avg": 12.7
   },
   {
     "startYear": 2017,
@@ -25,7 +25,7 @@
     "rebound8": 10.8,
     "rebound9": 10.7,
     "rebound10": 10.1,
-    "avgRebound": 12.1
+    "avg": 12.1
   },
   {
     "startYear": 2016,
@@ -39,7 +39,7 @@
     "rebound8": 11.1,
     "rebound9": 11,
     "rebound10": 10.7,
-    "avgRebound": 12.4
+    "avg": 12.4
   },
   {
     "startYear": 2015,
@@ -53,7 +53,7 @@
     "rebound8": 10.5,
     "rebound9": 10.3,
     "rebound10": 10.2,
-    "avgRebound": 11.7
+    "avg": 11.7
   },
   {
     "startYear": 2014,
@@ -67,7 +67,7 @@
     "rebound8": 10.2,
     "rebound9": 10.2,
     "rebound10": 10.2,
-    "avgRebound": 11.7
+    "avg": 11.7
   },
   {
     "startYear": 2013,
@@ -81,7 +81,7 @@
     "rebound8": 10.9,
     "rebound9": 10.1,
     "rebound10": 10,
-    "avgRebound": 11.7
+    "avg": 11.7
   },
   {
     "startYear": 2012,
@@ -95,7 +95,7 @@
     "rebound8": 10.2,
     "rebound9": 10,
     "rebound10": 9.8,
-    "avgRebound": 11
+    "avg": 11
   },
   {
     "startYear": 2011,
@@ -109,7 +109,7 @@
     "rebound8": 10,
     "rebound9": 9.9,
     "rebound10": 9.8,
-    "avgRebound": 11.3
+    "avg": 11.3
   },
   {
     "startYear": 2010,
@@ -123,7 +123,7 @@
     "rebound8": 9.7,
     "rebound9": 9.5,
     "rebound10": 9.4,
-    "avgRebound": 11.2
+    "avg": 11.2
   },
   {
     "startYear": 2009,
@@ -137,7 +137,7 @@
     "rebound8": 10.1,
     "rebound9": 10,
     "rebound10": 9.9,
-    "avgRebound": 11.1
+    "avg": 11.1
   },
   {
     "startYear": 2008,
@@ -151,7 +151,7 @@
     "rebound8": 9.6,
     "rebound9": 9.1,
     "rebound10": 8.9,
-    "avgRebound": 10.6
+    "avg": 10.6
   },
   {
     "startYear": 2007,
@@ -165,7 +165,7 @@
     "rebound8": 10.4,
     "rebound9": 10.4,
     "rebound10": 10.2,
-    "avgRebound": 11.4
+    "avg": 11.4
   },
   {
     "startYear": 2006,
@@ -179,7 +179,7 @@
     "rebound8": 9.8,
     "rebound9": 9.6,
     "rebound10": 9.3,
-    "avgRebound": 11.1
+    "avg": 11.1
   },
   {
     "startYear": 2005,
@@ -193,7 +193,7 @@
     "rebound8": 9.9,
     "rebound9": 9.6,
     "rebound10": 9.5,
-    "avgRebound": 10.8
+    "avg": 10.8
   },
   {
     "startYear": 2004,
@@ -207,7 +207,7 @@
     "rebound8": 10,
     "rebound9": 9.7,
     "rebound10": 9.7,
-    "avgRebound": 10.9
+    "avg": 10.9
   },
   {
     "startYear": 2003,
@@ -221,7 +221,7 @@
     "rebound8": 10.3,
     "rebound9": 10.1,
     "rebound10": 10.1,
-    "avgRebound": 11.4
+    "avg": 11.4
   },
   {
     "startYear": 2002,
@@ -235,7 +235,7 @@
     "rebound8": 9.5,
     "rebound9": 9.2,
     "rebound10": 9,
-    "avgRebound": 11
+    "avg": 11
   },
   {
     "startYear": 2001,
@@ -249,7 +249,7 @@
     "rebound8": 9.9,
     "rebound9": 9.9,
     "rebound10": 9.8,
-    "avgRebound": 11.2
+    "avg": 11.2
   },
   {
     "startYear": 2000,
@@ -263,7 +263,7 @@
     "rebound8": 10.7,
     "rebound9": 10.1,
     "rebound10": 10.1,
-    "avgRebound": 11.7
+    "avg": 11.7
   },
   {
     "startYear": 1999,
@@ -277,7 +277,7 @@
     "rebound8": 9.9,
     "rebound9": 9.6,
     "rebound10": 9.6,
-    "avgRebound": 11.2
+    "avg": 11.2
   },
   {
     "startYear": 1998,
@@ -291,7 +291,7 @@
     "rebound8": 10.7,
     "rebound9": 10.4,
     "rebound10": 10,
-    "avgRebound": 11.3
+    "avg": 11.3
   },
   {
     "startYear": 1997,
@@ -305,7 +305,7 @@
     "rebound8": 10.2,
     "rebound9": 10,
     "rebound10": 9.6,
-    "avgRebound": 11.3
+    "avg": 11.3
   },
   {
     "startYear": 1996,
@@ -319,7 +319,7 @@
     "rebound8": 10,
     "rebound9": 10,
     "rebound10": 10,
-    "avgRebound": 11.1
+    "avg": 11.1
   },
   {
     "startYear": 1995,
@@ -333,7 +333,7 @@
     "rebound8": 10.4,
     "rebound9": 10.1,
     "rebound10": 10,
-    "avgRebound": 11.4
+    "avg": 11.4
   },
   {
     "startYear": 1994,
@@ -347,7 +347,7 @@
     "rebound8": 10.8,
     "rebound9": 10.6,
     "rebound10": 10.6,
-    "avgRebound": 11.6
+    "avg": 11.6
   },
   {
     "startYear": 1993,
@@ -361,7 +361,7 @@
     "rebound8": 11.5,
     "rebound9": 11.3,
     "rebound10": 11.2,
-    "avgRebound": 12.4
+    "avg": 12.4
   },
   {
     "startYear": 1992,
@@ -375,7 +375,7 @@
     "rebound8": 11.8,
     "rebound9": 11.7,
     "rebound10": 11.2,
-    "avgRebound": 13
+    "avg": 13
   },
   {
     "startYear": 1991,
@@ -389,7 +389,7 @@
     "rebound8": 11.2,
     "rebound9": 11.2,
     "rebound10": 11.1,
-    "avgRebound": 12.8
+    "avg": 12.8
   },
   {
     "startYear": 1990,
@@ -403,7 +403,7 @@
     "rebound8": 10.3,
     "rebound9": 10.3,
     "rebound10": 10.3,
-    "avgRebound": 11.3
+    "avg": 11.3
   },
   {
     "startYear": 1989,
@@ -417,7 +417,7 @@
     "rebound8": 10,
     "rebound9": 10,
     "rebound10": 9.8,
-    "avgRebound": 11
+    "avg": 11
   },
   {
     "startYear": 1988,
@@ -431,7 +431,7 @@
     "rebound8": 9.6,
     "rebound9": 9.6,
     "rebound10": 9.6,
-    "avgRebound": 11
+    "avg": 11
   },
   {
     "startYear": 1987,
@@ -445,7 +445,7 @@
     "rebound8": 11.2,
     "rebound9": 10.2,
     "rebound10": 10.2,
-    "avgRebound": 11.7
+    "avg": 11.7
   },
   {
     "startYear": 1986,
@@ -459,7 +459,7 @@
     "rebound8": 11.4,
     "rebound9": 11.3,
     "rebound10": 10.6,
-    "avgRebound": 12
+    "avg": 12
   },
   {
     "startYear": 1985,
@@ -473,7 +473,7 @@
     "rebound8": 9.6,
     "rebound9": 9.6,
     "rebound10": 9.5,
-    "avgRebound": 11.1
+    "avg": 11.1
   },
   {
     "startYear": 1984,
@@ -487,7 +487,7 @@
     "rebound8": 10.5,
     "rebound9": 10.4,
     "rebound10": 10.4,
-    "avgRebound": 11.4
+    "avg": 11.4
   },
   {
     "startYear": 1983,
@@ -501,7 +501,7 @@
     "rebound8": 10.3,
     "rebound9": 10.1,
     "rebound10": 10.1,
-    "avgRebound": 11.4
+    "avg": 11.4
   },
   {
     "startYear": 1982,
@@ -515,7 +515,7 @@
     "rebound8": 11,
     "rebound9": 11,
     "rebound10": 10.6,
-    "avgRebound": 11.9
+    "avg": 11.9
   },
   {
     "startYear": 1981,
@@ -529,7 +529,7 @@
     "rebound8": 10.8,
     "rebound9": 10.2,
     "rebound10": 9.7,
-    "avgRebound": 11.5
+    "avg": 11.5
   },
   {
     "startYear": 1980,
@@ -543,7 +543,7 @@
     "rebound8": 10.1,
     "rebound9": 10,
     "rebound10": 9.7,
-    "avgRebound": 11.1
+    "avg": 11.1
   },
   {
     "startYear": 1979,
@@ -557,7 +557,7 @@
     "rebound8": 10.8,
     "rebound9": 10.5,
     "rebound10": 10.4,
-    "avgRebound": 11.9
+    "avg": 11.9
   },
   {
     "startYear": 1978,
@@ -571,7 +571,7 @@
     "rebound8": 11.6,
     "rebound9": 11.4,
     "rebound10": 10.8,
-    "avgRebound": 12.6
+    "avg": 12.6
   },
   {
     "startYear": 1977,
@@ -585,7 +585,7 @@
     "rebound8": 12.8,
     "rebound9": 12.6,
     "rebound10": 11.9,
-    "avgRebound": 13.5
+    "avg": 13.5
   },
   {
     "startYear": 1976,
@@ -599,7 +599,7 @@
     "rebound8": 11.5,
     "rebound9": 11.4,
     "rebound10": 11.3,
-    "avgRebound": 12.5
+    "avg": 12.5
   },
   {
     "startYear": 1975,
@@ -613,7 +613,7 @@
     "rebound8": 11.5,
     "rebound9": 11.3,
     "rebound10": 11,
-    "avgRebound": 13
+    "avg": 13
   },
   {
     "startYear": 1975,
@@ -627,7 +627,7 @@
     "rebound8": 10.8,
     "rebound9": 10.4,
     "rebound10": 10.1,
-    "avgRebound": 11.3
+    "avg": 11.3
   },
   {
     "startYear": 1974,
@@ -641,7 +641,7 @@
     "rebound8": 12.2,
     "rebound9": 12,
     "rebound10": 11.9,
-    "avgRebound": 13.3
+    "avg": 13.3
   },
   {
     "startYear": 1974,
@@ -655,7 +655,7 @@
     "rebound8": 10.9,
     "rebound9": 10.8,
     "rebound10": 10.7,
-    "avgRebound": 13.5
+    "avg": 13.5
   },
   {
     "startYear": 1973,
@@ -669,7 +669,7 @@
     "rebound8": 13.3,
     "rebound9": 12.2,
     "rebound10": 11.7,
-    "avgRebound": 14.1
+    "avg": 14.1
   },
   {
     "startYear": 1973,
@@ -683,7 +683,7 @@
     "rebound8": 10.2,
     "rebound9": 10.2,
     "rebound10": 9.8,
-    "avgRebound": 12.4
+    "avg": 12.4
   },
   {
     "startYear": 1972,
@@ -697,7 +697,7 @@
     "rebound8": 13,
     "rebound9": 13,
     "rebound10": 12.9,
-    "avgRebound": 15.2
+    "avg": 15.2
   },
   {
     "startYear": 1972,
@@ -711,7 +711,7 @@
     "rebound8": 10.8,
     "rebound9": 10.5,
     "rebound10": 10.1,
-    "avgRebound": 12.5
+    "avg": 12.5
   },
   {
     "startYear": 1971,
@@ -725,7 +725,7 @@
     "rebound8": 14.5,
     "rebound9": 14.2,
     "rebound10": 13.5,
-    "avgRebound": 15.7
+    "avg": 15.7
   },
   {
     "startYear": 1971,
@@ -739,7 +739,7 @@
     "rebound8": 11.7,
     "rebound9": 11.2,
     "rebound10": 10.6,
-    "avgRebound": 13.5
+    "avg": 13.5
   },
   {
     "startYear": 1970,
@@ -753,7 +753,7 @@
     "rebound8": 13.8,
     "rebound9": 13.8,
     "rebound10": 13.7,
-    "avgRebound": 15.5
+    "avg": 15.5
   },
   {
     "startYear": 1970,
@@ -767,7 +767,7 @@
     "rebound8": 11.9,
     "rebound9": 11.8,
     "rebound10": 11.4,
-    "avgRebound": 14.1
+    "avg": 14.1
   },
   {
     "startYear": 1969,
@@ -781,7 +781,7 @@
     "rebound8": 12.5,
     "rebound9": 11.7,
     "rebound10": 11.3,
-    "avgRebound": 14
+    "avg": 14
   },
   {
     "startYear": 1969,
@@ -795,7 +795,7 @@
     "rebound8": 12.9,
     "rebound9": 12.5,
     "rebound10": 12.1,
-    "avgRebound": 14.6
+    "avg": 14.6
   },
   {
     "startYear": 1968,
@@ -809,7 +809,7 @@
     "rebound8": 14.2,
     "rebound9": 13.8,
     "rebound10": 12.8,
-    "avgRebound": 16.9
+    "avg": 16.9
   },
   {
     "startYear": 1968,
@@ -823,7 +823,7 @@
     "rebound8": 10.7,
     "rebound9": 10.6,
     "rebound10": 10.5,
-    "avgRebound": 11.9
+    "avg": 11.9
   },
   {
     "startYear": 1967,
@@ -837,7 +837,7 @@
     "rebound8": 13.3,
     "rebound9": 12.2,
     "rebound10": 11.7,
-    "avgRebound": 15.3
+    "avg": 15.3
   },
   {
     "startYear": 1967,
@@ -851,7 +851,7 @@
     "rebound8": 11.5,
     "rebound9": 11,
     "rebound10": 10.2,
-    "avgRebound": 12.3
+    "avg": 12.3
   },
   {
     "startYear": 1966,
@@ -865,7 +865,7 @@
     "rebound8": 13.3,
     "rebound9": 12.8,
     "rebound10": 12,
-    "avgRebound": 16.7
+    "avg": 16.7
   },
   {
     "startYear": 1965,
@@ -879,7 +879,7 @@
     "rebound8": 11.6,
     "rebound9": 11.6,
     "rebound10": 10.6,
-    "avgRebound": 16.2
+    "avg": 16.2
   },
   {
     "startYear": 1964,
@@ -893,7 +893,7 @@
     "rebound8": 12.9,
     "rebound9": 12.8,
     "rebound10": 12.1,
-    "avgRebound": 16.5
+    "avg": 16.5
   },
   {
     "startYear": 1963,
@@ -907,7 +907,7 @@
     "rebound8": 12.7,
     "rebound9": 12,
     "rebound10": 11.6,
-    "avgRebound": 16
+    "avg": 16
   },
   {
     "startYear": 1962,
@@ -921,7 +921,7 @@
     "rebound8": 12.1,
     "rebound9": 11.5,
     "rebound10": 11.1,
-    "avgRebound": 15.4
+    "avg": 15.4
   },
   {
     "startYear": 1961,
@@ -935,7 +935,7 @@
     "rebound8": 12.6,
     "rebound9": 12.5,
     "rebound10": 11.6,
-    "avgRebound": 16.5
+    "avg": 16.5
   },
   {
     "startYear": 1960,
@@ -949,7 +949,7 @@
     "rebound8": 12.2,
     "rebound9": 12,
     "rebound10": 10.9,
-    "avgRebound": 16.8
+    "avg": 16.8
   },
   {
     "startYear": 1959,
@@ -963,7 +963,7 @@
     "rebound8": 12.8,
     "rebound9": 12.2,
     "rebound10": 10.7,
-    "avgRebound": 16.1
+    "avg": 16.1
   },
   {
     "startYear": 1958,
@@ -977,7 +977,7 @@
     "rebound8": 11.1,
     "rebound9": 10.9,
     "rebound10": 10.6,
-    "avgRebound": 13.9
+    "avg": 13.9
   },
   {
     "startYear": 1957,
@@ -991,7 +991,7 @@
     "rebound8": 12.1,
     "rebound9": 11.8,
     "rebound10": 11.2,
-    "avgRebound": 14.6
+    "avg": 14.6
   },
   {
     "startYear": 1956,
@@ -1005,7 +1005,7 @@
     "rebound8": 11.2,
     "rebound9": 10.5,
     "rebound10": 10.4,
-    "avgRebound": 13.5
+    "avg": 13.5
   },
   {
     "startYear": 1955,
@@ -1019,7 +1019,7 @@
     "rebound8": 10.3,
     "rebound9": 9.7,
     "rebound10": 9.2,
-    "avgRebound": 12.2
+    "avg": 12.2
   },
   {
     "startYear": 1954,
@@ -1033,7 +1033,7 @@
     "rebound8": 10.2,
     "rebound9": 10.1,
     "rebound10": 10,
-    "avgRebound": 11.8
+    "avg": 11.8
   },
   {
     "startYear": 1953,
@@ -1047,7 +1047,7 @@
     "rebound8": 9.7,
     "rebound9": 9.6,
     "rebound10": 9.4,
-    "avgRebound": 11.8
+    "avg": 11.8
   },
   {
     "startYear": 1952,
@@ -1061,7 +1061,7 @@
     "rebound8": 11,
     "rebound9": 10.9,
     "rebound10": 10,
-    "avgRebound": 12
+    "avg": 12
   },
   {
     "startYear": 1951,
@@ -1075,7 +1075,7 @@
     "rebound8": 10.5,
     "rebound9": 10.3,
     "rebound10": 10,
-    "avgRebound": 11.8
+    "avg": 11.8
   },
   {
     "startYear": 1950,
@@ -1089,6 +1089,6 @@
     "rebound8": 9.9,
     "rebound9": 9.1,
     "rebound10": 9,
-    "avgRebound": 11.3
+    "avg": 11.3
   }
 ]

@@ -13,7 +13,7 @@ const RpgSchema = new Schema({
     rebound8: Number,
     rebound9: Number,
     rebound10: Number,
-    avgRebound: Number
+    avg: Number
     
 })
 

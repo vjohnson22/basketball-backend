@@ -13,7 +13,7 @@ const BpgSchema = new Schema({
     block8: Number,
     block9: Number,
     block10: Number,
-    avgBlock: Number
+    avg: Number
 })
 
 module.exports = mongoose.model('Bpg', BpgSchema)
