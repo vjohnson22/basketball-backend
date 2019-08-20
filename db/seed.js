@@ -21,6 +21,8 @@ let playerSeed = data.map( datum => {
     object.rpg = datum.RPG
     object.spg = datum.SPG
     object.bpg = datum.BPG
+    object.startYear = datum.startYear
+    object.endYear = datum.endYear
     
     return object
 })
