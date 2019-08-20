@@ -1,5 +1,5 @@
 const mongoose = require('../connection')
-const Schema = mongoose.Schema()
+const Schema = mongoose.Schema
 
 const SpgSchema = new Schema({
     startYear: Number,
@@ -13,6 +13,7 @@ const SpgSchema = new Schema({
     steal8: Number,
     steal9: Number,
     steal10: Number,
+    avgSteal: Number
     
 })
 

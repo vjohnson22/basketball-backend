@@ -8,6 +8,9 @@ const bpgData = require('./bpg.json')
 const Bpg = require('./models/bpg')
 const rpgData = require('./rpg.json')
 const Rpg = require('./models/rpg')
+const spgData = require('./spg.json')
+const Spg = require('./models/spg')
+
 
 
 let playerSeed = data.map( datum => {
@@ -38,6 +41,6 @@ Apg.deleteMany({}).then(() => {
 Bpg.deleteMany({}).then(() => {
     Bpg.create(bpgData)
 })
-Rpg.deleteMany({}).then(() => {
-    Rpg.create(rpgData)
+Spg.deleteMany({}).then(() => {
+    Spg.create(spgData)
 })

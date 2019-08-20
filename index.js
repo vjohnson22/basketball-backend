@@ -10,6 +10,7 @@ app.use('/', require('./routes/player'))
 app.use('/ppg', require('./routes/ppg'))    
 app.use('/apg', require('./routes/apg'))    
 app.use('/bpg', require('./routes/bpg'))    
+app.use('/rpg', require('./routes/rpg'))    
 
 
 app.set("port", process.env.PORT || 3000)
