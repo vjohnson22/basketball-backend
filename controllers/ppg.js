@@ -9,24 +9,13 @@ module.exports = {
     },
     show: (req,res) => {
         Ppg.find({ 
-            startYear: { $gte: req.params.startYear }
+            startYear: { $gte: req.params.startYear, $lte: req.params.endYear }
             })
             .then(ppgData => {
                 res.json(ppgData)    
             })
          }
-        // Ppg.find({})
-        // .where('startYear').gte(req.params.startYear).lte(req.params.endYear)
-        // .then( ppgs => {
-           
-        //     res.json(ppgs)
-        // })
-}
-
-// , $lte: req.params.endYear
-
-        
-    // show: (req,res) => {
     
+}    
        
     
