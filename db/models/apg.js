@@ -13,6 +13,7 @@ const ApgSchema = new Schema({
     assist8: Number,
     assist9: Number,
     assist10: Number,
+    avgAssist: Number
     
 })
 
