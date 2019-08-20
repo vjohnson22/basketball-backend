@@ -1,5 +1,5 @@
 const mongoose = require('../connection')
-const Schema = mongoose.Schema()
+const Schema = mongoose.Schema
 
 const PpgSchema = new Schema({
     startYear: Number,
@@ -13,6 +13,7 @@ const PpgSchema = new Schema({
     score8: Number,
     score9: Number,
     score10: Number,
+    avgScore: Number
     
 })
 

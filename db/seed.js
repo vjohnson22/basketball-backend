@@ -1,7 +1,8 @@
 const Player = require('./models/player')
 // const Searched = require('./models/searched')
 const data = require('./playerData.json')
-
+const ppgData = require('./ppg.json')
+const Ppg = require('./models/ppg')
 
 
 let playerSeed = data.map( datum => {
@@ -19,6 +20,10 @@ let playerSeed = data.map( datum => {
 
 Player.deleteMany({}).then(() => {
     Player.create(playerSeed)
+})
+
+Ppg.deleteMany({}).then(() => {
+    Ppg.create(ppgData)
 })
 
 

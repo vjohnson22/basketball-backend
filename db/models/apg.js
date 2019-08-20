@@ -1,5 +1,5 @@
 const mongoose = require('../connection')
-const Schema = mongoose.Schema()
+const Schema = mongoose.Schema
 
 const ApgSchema = new Schema({
     startYear: Number,
