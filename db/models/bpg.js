@@ -1,5 +1,5 @@
 const mongoose = require('../connection')
-const Schema = mongoose.Schema()
+const Schema = mongoose.Schema
 
 const BpgSchema = new Schema({
     startYear: Number,
@@ -13,7 +13,7 @@ const BpgSchema = new Schema({
     block8: Number,
     block9: Number,
     block10: Number,
-    
+    avgBlock: Number
 })
 
 module.exports = mongoose.model('Bpg', BpgSchema)

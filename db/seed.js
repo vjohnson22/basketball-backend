@@ -1,10 +1,11 @@
 const Player = require('./models/player')
-// const Searched = require('./models/searched')
 const data = require('./playerData.json')
 const ppgData = require('./ppg.json')
 const Ppg = require('./models/ppg')
 const apgData = require('./apg.json')
 const Apg = require('./models/apg')
+const bpgData = require('./bpg.json')
+const Bpg = require('./models/bpg')
 
 
 let playerSeed = data.map( datum => {
@@ -32,3 +33,6 @@ Apg.deleteMany({}).then(() => {
     Apg.create(apgData)
 })
 
+Bpg.deleteMany({}).then(() => {
+    Bpg.create(bpgData)
+})
