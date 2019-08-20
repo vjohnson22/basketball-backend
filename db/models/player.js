@@ -8,6 +8,8 @@ const PlayerSchema = new Schema ({
     rpg: Number,
     spg: Number,
     bpg: Number,
+    startYear: Number,
+    endYear: Number,
     image: String,
     video: String
 })
