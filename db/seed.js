@@ -10,6 +10,8 @@ const rpgData = require('./rpg.json')
 const Rpg = require('./models/rpg')
 const spgData = require('./spg.json')
 const Spg = require('./models/spg')
+const yearData = require('./yearavg.json')
+const YearAvg = require('./models/yearavg')
 
 
 
@@ -49,4 +51,7 @@ Spg.deleteMany({}).then(() => {
 
 Rpg.deleteMany({}).then(() => {
     Rpg.create(rpgData)
+})
+YearAvg.deleteMany({}).then(() => {
+    YearAvg.create(yearData)
 })

@@ -1,0 +1,658 @@
+[
+  {
+    "startYear": 2018,
+    "avgPpg": 27.7,
+    "avgApg": 8,
+    "avgBpg": 2,
+    "avgRpg": 12.7,
+    "avgSpg": 1.9
+  },
+  {
+    "startYear": 2017,
+    "avgPpg": 26.2,
+    "avgApg": 8,
+    "avgBpg": 1.7,
+    "avgRpg": 12.1,
+    "avgSpg": 1.9
+  },
+  {
+    "startYear": 2016,
+    "avgPpg": 27.6,
+    "avgApg": 8.8,
+    "avgBpg": 1.9,
+    "avgRpg": 12.4,
+    "avgSpg": 1.9
+  },
+  {
+    "startYear": 2015,
+    "avgPpg": 25.9,
+    "avgApg": 8.6,
+    "avgBpg": 2.1,
+    "avgRpg": 11.7,
+    "avgSpg": 2
+  },
+  {
+    "startYear": 2014,
+    "avgPpg": 24.2,
+    "avgApg": 8.2,
+    "avgBpg": 2.1,
+    "avgRpg": 11.7,
+    "avgSpg": 2
+  },
+  {
+    "startYear": 2013,
+    "avgPpg": 25.5,
+    "avgApg": 8,
+    "avgBpg": 2.1,
+    "avgRpg": 11.7,
+    "avgSpg": 2
+  },
+  {
+    "startYear": 2012,
+    "avgPpg": 24.5,
+    "avgApg": 8.3,
+    "avgBpg": 2.3,
+    "avgRpg": 11,
+    "avgSpg": 2
+  },
+  {
+    "startYear": 2011,
+    "avgPpg": 24,
+    "avgApg": 8.6,
+    "avgBpg": 2.1,
+    "avgRpg": 11.3,
+    "avgSpg": 1.9
+  },
+  {
+    "startYear": 2010,
+    "avgPpg": 25.2,
+    "avgApg": 9.2,
+    "avgBpg": 2.1,
+    "avgRpg": 11.2,
+    "avgSpg": 1.9
+  },
+  {
+    "startYear": 2009,
+    "avgPpg": 26.3,
+    "avgApg": 8.9,
+    "avgBpg": 2,
+    "avgRpg": 11.1,
+    "avgSpg": 1.9
+  },
+  {
+    "startYear": 2008,
+    "avgPpg": 25.3,
+    "avgApg": 8.7,
+    "avgBpg": 2.1,
+    "avgRpg": 10.6,
+    "avgSpg": 1.9
+  },
+  {
+    "startYear": 2007,
+    "avgPpg": 25.1,
+    "avgApg": 8.8,
+    "avgBpg": 2.3,
+    "avgRpg": 11.4,
+    "avgSpg": 2.1
+  },
+  {
+    "startYear": 2006,
+    "avgPpg": 27.1,
+    "avgApg": 8.4,
+    "avgBpg": 2.5,
+    "avgRpg": 11.1,
+    "avgSpg": 1.9
+  },
+  {
+    "startYear": 2005,
+    "avgPpg": 28.7,
+    "avgApg": 8.2,
+    "avgBpg": 2.6,
+    "avgRpg": 10.8,
+    "avgSpg": 2
+  },
+  {
+    "startYear": 2004,
+    "avgPpg": 26.1,
+    "avgApg": 7.9,
+    "avgBpg": 2.5,
+    "avgRpg": 10.9,
+    "avgSpg": 2
+  },
+  {
+    "startYear": 2003,
+    "avgPpg": 23.5,
+    "avgApg": 7.5,
+    "avgBpg": 2.7,
+    "avgRpg": 11.4,
+    "avgSpg": 1.9
+  },
+  {
+    "startYear": 2002,
+    "avgPpg": 26,
+    "avgApg": 7.7,
+    "avgBpg": 2.5,
+    "avgRpg": 11,
+    "avgSpg": 2.1
+  },
+  {
+    "startYear": 2001,
+    "avgPpg": 25.4,
+    "avgApg": 8.6,
+    "avgBpg": 2.4,
+    "avgRpg": 11.2,
+    "avgSpg": 2.1
+  },
+  {
+    "startYear": 2000,
+    "avgPpg": 27.4,
+    "avgApg": 8.2,
+    "avgBpg": 2.7,
+    "avgRpg": 11.7,
+    "avgSpg": 2.1
+  },
+  {
+    "startYear": 1999,
+    "avgPpg": 25.3,
+    "avgApg": 8.7,
+    "avgBpg": 2.6,
+    "avgRpg": 11.2,
+    "avgSpg": 2
+  },
+  {
+    "startYear": 1998,
+    "avgPpg": 23,
+    "avgApg": 8.5,
+    "avgBpg": 2.8,
+    "avgRpg": 11.3,
+    "avgSpg": 2.3
+  },
+  {
+    "startYear": 1997,
+    "avgPpg": 24,
+    "avgApg": 8.6,
+    "avgBpg": 2.8,
+    "avgRpg": 11.3,
+    "avgSpg": 2.1
+  },
+  {
+    "startYear": 1996,
+    "avgPpg": 24.7,
+    "avgApg": 9.1,
+    "avgBpg": 2.6,
+    "avgRpg": 11.1,
+    "avgSpg": 2.2
+  },
+  {
+    "startYear": 1995,
+    "avgPpg": 24.9,
+    "avgApg": 9,
+    "avgBpg": 2.9,
+    "avgRpg": 11.4,
+    "avgSpg": 2.1
+  },
+  {
+    "startYear": 1994,
+    "avgPpg": 24.9,
+    "avgApg": 8.8,
+    "avgBpg": 2.7,
+    "avgRpg": 11.6,
+    "avgSpg": 2.2
+  },
+  {
+    "startYear": 1993,
+    "avgPpg": 25,
+    "avgApg": 9.3,
+    "avgBpg": 2.9,
+    "avgRpg": 12.4,
+    "avgSpg": 2.4
+  },
+  {
+    "startYear": 1992,
+    "avgPpg": 25.8,
+    "avgApg": 9.1,
+    "avgBpg": 2.9,
+    "avgRpg": 13,
+    "avgSpg": 2.3
+  },
+  {
+    "startYear": 1991,
+    "avgPpg": 24.7,
+    "avgApg": 9.2,
+    "avgBpg": 3.1,
+    "avgRpg": 12.8,
+    "avgSpg": 2.4
+  },
+  {
+    "startYear": 1990,
+    "avgPpg": 27.1,
+    "avgApg": 10.1,
+    "avgBpg": 2.8,
+    "avgRpg": 11.3,
+    "avgSpg": 2.5
+  },
+  {
+    "startYear": 1989,
+    "avgPpg": 27.1,
+    "avgApg": 10.3,
+    "avgBpg": 2.9,
+    "avgRpg": 11,
+    "avgSpg": 2.3
+  },
+  {
+    "startYear": 1988,
+    "avgPpg": 27.2,
+    "avgApg": 9.9,
+    "avgBpg": 3,
+    "avgRpg": 11,
+    "avgSpg": 2.6
+  },
+  {
+    "startYear": 1987,
+    "avgPpg": 27.7,
+    "avgApg": 9.6,
+    "avgBpg": 2.6,
+    "avgRpg": 11.7,
+    "avgSpg": 2.5
+  },
+  {
+    "startYear": 1986,
+    "avgPpg": 27.4,
+    "avgApg": 9.3,
+    "avgBpg": 2.7,
+    "avgRpg": 12,
+    "avgSpg": 2.5
+  },
+  {
+    "startYear": 1985,
+    "avgPpg": 26,
+    "avgApg": 9.4,
+    "avgBpg": 3,
+    "avgRpg": 11.1,
+    "avgSpg": 2.4
+  },
+  {
+    "startYear": 1984,
+    "avgPpg": 27.4,
+    "avgApg": 9.3,
+    "avgBpg": 2.6,
+    "avgRpg": 11.4,
+    "avgSpg": 2.4
+  },
+  {
+    "startYear": 1983,
+    "avgPpg": 26.1,
+    "avgApg": 9.4,
+    "avgBpg": 2.4,
+    "avgRpg": 11.4,
+    "avgSpg": 2.2
+  },
+  {
+    "startYear": 1982,
+    "avgPpg": 25.2,
+    "avgApg": 8.3,
+    "avgBpg": 2.8,
+    "avgRpg": 11.9,
+    "avgSpg": 2.4
+  },
+  {
+    "startYear": 1981,
+    "avgPpg": 26,
+    "avgApg": 8.1,
+    "avgBpg": 2.4,
+    "avgRpg": 11.5,
+    "avgSpg": 2.3
+  },
+  {
+    "startYear": 1980,
+    "avgPpg": 25.9,
+    "avgApg": 7.5,
+    "avgBpg": 2.5,
+    "avgRpg": 11.1,
+    "avgSpg": 2.4
+  },
+  {
+    "startYear": 1979,
+    "avgPpg": 26.1,
+    "avgApg": 7.7,
+    "avgBpg": 2.4,
+    "avgRpg": 11.9,
+    "avgSpg": 2.4
+  },
+  {
+    "startYear": 1978,
+    "avgPpg": 25.3,
+    "avgApg": 7.7,
+    "avgBpg": 2.6,
+    "avgRpg": 12.6,
+    "avgSpg": 2.2
+  },
+  {
+    "startYear": 1977,
+    "avgPpg": 25.5,
+    "avgApg": 6.8,
+    "avgBpg": 2.5,
+    "avgRpg": 13.5,
+    "avgSpg": 2.2
+  },
+  {
+    "startYear": 1976,
+    "avgPpg": 25.4,
+    "avgApg": 6.7,
+    "avgBpg": 2.5,
+    "avgRpg": 12.5,
+    "avgSpg": 2.5
+  },
+  {
+    "startYear": 1975,
+    "avgPpg": 24.2,
+    "avgApg": 6.5,
+    "avgBpg": 2.3,
+    "avgRpg": 13,
+    "avgSpg": 2.3
+  },
+  {
+    "startYear": 1975,
+    "avgPpg": 24.3,
+    "avgApg": 5.7,
+    "avgBpg": 2.1,
+    "avgRpg": 11.3,
+    "avgSpg": 2.3
+  },
+  {
+    "startYear": 1974,
+    "avgPpg": 26,
+    "avgApg": 6.5,
+    "avgBpg": 2.3,
+    "avgRpg": 13.3,
+    "avgSpg": 2.3
+  },
+  {
+    "startYear": 1974,
+    "avgPpg": 24.3,
+    "avgApg": 6,
+    "avgBpg": 2,
+    "avgRpg": 13.5,
+    "avgSpg": 2.2
+  },
+  {
+    "startYear": 1973,
+    "avgPpg": 25.3,
+    "avgApg": 6.7,
+    "avgBpg": 2.8,
+    "avgRpg": 14.1,
+    "avgSpg": 2.2
+  },
+  {
+    "startYear": 1973,
+    "avgPpg": 22.2,
+    "avgApg": 5.5,
+    "avgBpg": 2.2,
+    "avgRpg": 12.4,
+    "avgSpg": 2.2
+  },
+  {
+    "startYear": 1972,
+    "avgPpg": 26.8,
+    "avgApg": 7.4,
+    "avgBpg": "",
+    "avgRpg": 15.2,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1972,
+    "avgPpg": 24,
+    "avgApg": 5.8,
+    "avgBpg": "",
+    "avgRpg": 12.5,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1971,
+    "avgPpg": 27,
+    "avgApg": 7.4,
+    "avgBpg": "",
+    "avgRpg": 15.7,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1971,
+    "avgPpg": 27.3,
+    "avgApg": 5.8,
+    "avgBpg": "",
+    "avgRpg": 13.5,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1970,
+    "avgPpg": 26.2,
+    "avgApg": 7,
+    "avgBpg": "",
+    "avgRpg": 15.5,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1970,
+    "avgPpg": 25.4,
+    "avgApg": 5.9,
+    "avgBpg": "",
+    "avgRpg": 14.1,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1969,
+    "avgPpg": 25.9,
+    "avgApg": 7.2,
+    "avgBpg": "",
+    "avgRpg": 14,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1969,
+    "avgPpg": 25,
+    "avgApg": 5.4,
+    "avgBpg": "",
+    "avgRpg": 14.6,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1968,
+    "avgPpg": 24.6,
+    "avgApg": 7,
+    "avgBpg": "",
+    "avgRpg": 16.9,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1968,
+    "avgPpg": 23.6,
+    "avgApg": 5,
+    "avgBpg": "",
+    "avgRpg": 11.9,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1967,
+    "avgPpg": 24.4,
+    "avgApg": 6.4,
+    "avgBpg": "",
+    "avgRpg": 15.3,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1967,
+    "avgPpg": 22.4,
+    "avgApg": 4.2,
+    "avgBpg": "",
+    "avgRpg": 12.3,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1966,
+    "avgPpg": 25.3,
+    "avgApg": 6.8,
+    "avgBpg": "",
+    "avgRpg": 16.7,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1965,
+    "avgPpg": 25.6,
+    "avgApg": 6.6,
+    "avgBpg": "",
+    "avgRpg": 16.2,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1964,
+    "avgPpg": 25.4,
+    "avgApg": 5.6,
+    "avgBpg": "",
+    "avgRpg": 16.5,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1963,
+    "avgPpg": 26.2,
+    "avgApg": 5.8,
+    "avgBpg": "",
+    "avgRpg": 16,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1962,
+    "avgPpg": 26.7,
+    "avgApg": 6,
+    "avgBpg": "",
+    "avgRpg": 15.4,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1961,
+    "avgPpg": 29.8,
+    "avgApg": 6.5,
+    "avgBpg": "",
+    "avgRpg": 16.5,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1960,
+    "avgPpg": 27.3,
+    "avgApg": 6.5,
+    "avgBpg": "",
+    "avgRpg": 16.8,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1959,
+    "avgPpg": 26.1,
+    "avgApg": 5.8,
+    "avgBpg": "",
+    "avgRpg": 16.1,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1958,
+    "avgPpg": 23.2,
+    "avgApg": 5.1,
+    "avgBpg": "",
+    "avgRpg": 13.9,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1957,
+    "avgPpg": 22,
+    "avgApg": 5.4,
+    "avgBpg": "",
+    "avgRpg": 14.6,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1956,
+    "avgPpg": 21.2,
+    "avgApg": 4.3,
+    "avgBpg": "",
+    "avgRpg": 13.5,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1955,
+    "avgPpg": 20.4,
+    "avgApg": 5.9,
+    "avgBpg": "",
+    "avgRpg": 12.2,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1954,
+    "avgPpg": 19.6,
+    "avgApg": 5.9,
+    "avgBpg": "",
+    "avgRpg": 11.8,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1953,
+    "avgPpg": 17.5,
+    "avgApg": 4.8,
+    "avgBpg": "",
+    "avgRpg": 11.8,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1952,
+    "avgPpg": 17.8,
+    "avgApg": 4.8,
+    "avgBpg": "",
+    "avgRpg": 12,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1951,
+    "avgPpg": 18.5,
+    "avgApg": 5.2,
+    "avgBpg": "",
+    "avgRpg": 11.8,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1950,
+    "avgPpg": 18.9,
+    "avgApg": 4.8,
+    "avgBpg": "",
+    "avgRpg": 11.3,
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1949,
+    "avgPpg": 18,
+    "avgApg": 4.4,
+    "avgBpg": "",
+    "avgRpg": "",
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1948,
+    "avgPpg": 18.2,
+    "avgApg": 4.1,
+    "avgBpg": "",
+    "avgRpg": "",
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1947,
+    "avgPpg": 15.9,
+    "avgApg": 1.8,
+    "avgBpg": "",
+    "avgRpg": "",
+    "avgSpg": ""
+  },
+  {
+    "startYear": 1946,
+    "avgPpg": 15.4,
+    "avgApg": 1.8,
+    "avgBpg": "",
+    "avgRpg": "",
+    "avgSpg": ""
+  }
+]
