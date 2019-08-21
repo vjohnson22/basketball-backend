@@ -25,6 +25,7 @@ let playerSeed = data.map( datum => {
     object.bpg = datum.BPG
     object.startYear = datum.startYear
     object.endYear = datum.endYear
+    object.image = datum.image
     
     return object
 })
